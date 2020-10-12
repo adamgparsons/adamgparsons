@@ -2,8 +2,6 @@
 
 I’m an Interaction Designer & Front End Developer based in London. I enjoy using HTML, CSS and Javascript to build products that meet user needs. 
 
-<br>
-
 ### Tech stack
 **⚙️ Javascript** - Vanilla Javascript | React
 
@@ -15,7 +13,7 @@ I’m an Interaction Designer & Front End Developer based in London. I enjoy usi
 
 **🔐 Backend** - Node/express
 
-**📚 Databases** - Mongodb
+**📚 Databases** - MongoDB
 
 **🖌 Design tools** - Figma | Sketch | pen and paper
 
