@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hi I'm Adam
 
 I’m an Interaction Designer & Front End Developer based in London. I enjoy using HTML, CSS and Javascript to build products that meet user needs. 
 
