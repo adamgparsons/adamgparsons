@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**adamgparsons/adamgparsons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Interaction Designer & Front End Developer based in London. I enjoy using HTML, CSS and Javascript to build products that meet user needs. 
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+**⚙️ Javascript** - Vanilla Javascript | React
+
+**🎨 Styling** - CSS | SASS | LESS | CSS-in-JS
+
+**📄 Static site generators** - Gatsby | Next | Jekyll
+
+**🖼 CMS** - Contentful | Netlify CMS | Wordpress
+
+**🔐 Backend** - Node/express
+
+**📚 Databases** - Mongodb
+
+**🖌 Design tools** - Figma | Sketch | pen and paper
+
+<br>
+
+Feel free to check out [my portfolio website](https://www.adamparsons.me) or [get in touch](https://www.adamparsons.me/#contact).
